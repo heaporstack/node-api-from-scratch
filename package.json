@@ -1,0 +1,8 @@
+{
+  "name": "api-from-scratch",
+  "version": "1.0.0",
+  "type": "module",
+  "imports": {
+    "#source/*": "./source/*"
+  }
+}

@@ -1,0 +1,3 @@
+# Node API from scratch
+No use of Koa / Express / Nest or anything else. Just trying to create an API
+from scratch with standard NodeJS lib.
